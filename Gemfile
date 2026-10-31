@@ -95,7 +95,7 @@ gem 'pundit'
 
 # super admin
 gem 'administrate', '>= 0.20.1'
-gem 'administrate-field-active_storage', '>= 1.0.3'
+gem 'administrate-field-active_storage', '>= 1.0.6'
 gem 'administrate-field-belongs_to_search', '>= 0.10.0'
 
 ##--- gems for pubsub service ---##
@@ -183,7 +183,7 @@ gem 'lograge', '~> 0.14.0', require: false
 # worked with microsoft refresh token
 gem 'omniauth-oauth2'
 
-gem 'audited', '~> 5.4', '>= 5.4.1'
+gem 'audited', '~> 5.8'
 
 # need for google auth
 gem 'omniauth', '>= 2.1.2'
